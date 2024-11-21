@@ -9,3 +9,8 @@ There were ways to do that even if they had to spend the bare minimum to qualify
 
 This dataset helps to differentiate between the genuine attrited customer who has opted out of card and churning attrited customer who has opted out of card once they have taken all the benefits. The aim is to find the number of people who have opted out due to the process of churning and predict them using PySpark and modelling.
 
+## Implementation 
+
+Data Conversion: The conversion of data from CSV to Parquet has been done, made use of Apache Parquet. PySpark is utilized, and Machine learning modelling has been done in Jupyter Notebook. Additionally, visualizations using the pandas, matplotlib, and sns libraries were done in Jupyter Notebook.
+
+Data Loading: Data is extracted into the virtual machine (Microsoft Azure), Jupyter notebook is used. The session is started when the spark is started running simultaneously.
