@@ -14,3 +14,6 @@ This dataset helps to differentiate between the genuine attrited customer who ha
 Data Conversion: The conversion of data from CSV to Parquet has been done, made use of Apache Parquet. PySpark is utilized, and Machine learning modelling has been done in Jupyter Notebook. Additionally, visualizations using the pandas, matplotlib, and sns libraries were done in Jupyter Notebook.
 
 Data Loading: Data is extracted into the virtual machine (Microsoft Azure), Jupyter notebook is used. The session is started when the spark is started running simultaneously.
+
+
+Let's Goooo...!!!
